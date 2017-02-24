@@ -1,0 +1,17 @@
+{
+  "name": "node_restapi",
+  "version": "1.0.0",
+  "description": "My first rest api calls using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "hapi": "^16.1.0",
+    "joi": "^10.2.2",
+    "mysql": "^2.13.0"
+  }
+}
